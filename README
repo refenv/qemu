@@ -1,4 +1,12 @@
-         QEMU README
+# 📦 Repository Archived
+
+This repository is retired and will be archived. It is preserved for reference but is no longer maintained 🛑.
+
+This fork of qemu was originally used for automatic the functional verification of the host software stack and software eco-system around Open-Channel SSDs.
+
+⛔ To avoid any confusion, please note that this package should not be considered a reference for **cijoe**.
+
+QEMU README
          ===========
 
 QEMU is a generic and open source machine & userspace emulator and
